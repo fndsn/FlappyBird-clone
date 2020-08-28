@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5637352930e5cbf47bca4dfeaf7cc9ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ustEngel: {fileID: 1519166795859256, guid: 78340bfc540bd054db5f5b82d54a9363, type: 3}
+  - altEngel: {fileID: 1349754694269584, guid: 0e83d0f93b2a8204eadf1e48e3c5f3e3, type: 3}
+  - skorCollider: {fileID: 1991558369083436, guid: be2c307e50b018748a8cb5254dc7cc81,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

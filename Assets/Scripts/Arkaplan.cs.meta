@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 574d60d5a01b7e04fb48bf414b2aeb62
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gokyuzu: {fileID: 1245326580171888, guid: 4bf69b5edea6cb143a55bc1dcf4cc2c9, type: 3}
+  - toprak: {fileID: 1618785406781100, guid: 67f41eec07e359d46a9ea69947fa2557, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
